@@ -1,6 +1,6 @@
 # GENZ Urban Challenge – CodeFest Datathon 2025
 
-## 📌 Introduction
+##  Introduction
 The GENZ Urban Challenge is part of **SLIIT CodeFest Datathon 2025**, focusing on enhancing communication between the public and urban authorities.  
 The goal is to create a **citizen-driven platform** that allows people to report urban issues — such as potholes, illegal parking, vandalism, or littering — simply by uploading an image.
 
@@ -53,7 +53,7 @@ Example datasets:
 
 ---
 
-## 🧮 Evaluation
+##  Evaluation
 Models will be judged on:
 - **Accuracy** – Correct classification of main & sub-categories.
 - **Classification Performance** – Handling multiple distinct issues per image.
