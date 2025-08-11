@@ -70,7 +70,7 @@ Models will be judged on:
 ## 📊 Architecture Diagram
 
 
-![Architecture Diagram](GENZ_UrbanChallenge/Artboard 1@4x-100.jpg)
+![Architecture Diagram](UrbanChallenge/architecture.png)
 
 ---
 
