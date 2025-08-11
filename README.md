@@ -60,11 +60,6 @@ Models will be judged on:
 - **Classification Performance** – Handling multiple distinct issues per image.  
 - **Anonymization Quality** – Privacy protection effectiveness.  
 
-**Judging Criteria:**  
-- Data Wrangling & Dataset Creation – 35%  
-- Model & Architecture Implementation – 40%  
-- Model Evaluation – 15%  
-- Demo Video – 10%  
 
 ---
 
