@@ -1,7 +1,7 @@
-# RootCode Urban Challenge – CodeFest Datathon 2025  
+# RootCode Challenge – CodeFest Datathon 2025  
 
 ##  Introduction  
-The Datathon-Urban Challenge is part of **SLIIT CodeFest  2025**, hosted by **RootCode**, focusing on enhancing communication between the public and urban authorities.  
+The Datathon is part of **SLIIT CodeFest  2025**, hosted by **RootCode**, focusing on enhancing communication between the public and urban authorities.  
 The goal is to create a **citizen-driven platform** that allows people to report urban issues — such as potholes, illegal parking, vandalism, or littering — simply by uploading an image.  
 
 Your system must:  
