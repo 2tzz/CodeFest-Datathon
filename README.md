@@ -68,9 +68,9 @@ Models will be judged on:
 ---
 
 ## 📊 Architecture Diagram
-*(Replace the placeholder below with your actual diagram file)*
 
-![Architecture Diagram](docs/architecture.png)
+
+![Architecture Diagram](GENZ_UrbanChallenge/Artboard 1@4x-100.jpg)
 
 ---
 
