@@ -64,7 +64,7 @@ Models will be judged on:
 ---
 
 ## 📊 Architecture Diagram  
-![Architecture Diagram](UrbanChallenge/architecture.png)  
+![Architecture Diagram](UrbanChallenge/architecture1.png)  
 
 ---
 
